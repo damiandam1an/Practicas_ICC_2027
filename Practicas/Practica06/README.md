@@ -38,3 +38,5 @@ java -cp bin CabanaDelMisterio
 **BinarioInteractivo:** Se ingresa 67 y el programa devuelve 1000011.
 
 **CabanaDelMisterio:** Con un capital de $12,899, tasa del 15% y plazo de 21 meses, calcula $3,385.99 de interés simple.
+
+así esta mejor profe (¬_¬)?
