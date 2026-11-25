@@ -236,7 +236,7 @@ Al clonar un paquete se crea otro objeto independiente con los mismos datos mien
 
 ### 2. Para generar el `folioGuia` con un número consecutivo global y consultar cuántas guías se han emitido en total, ¿qué modificador tuviste que utilizar en ese atributo y en su método de consulta? ¿Por qué no funcionaría si el contador fuera un atributo normal de instancia?
 
-Utilicé `static` en el contador y en su método de consulta para que todas las guías compartan el mismo total porque con un atributo de instancia cada objeto llevaría su propia cuenta.
+Utilicé static en el contador y en su método de consulta para que todas las guías compartan el mismo total porque con un atributo de instancia cada objeto llevaría su propia cuenta.
 
 ### 3. Si una guía `envio1` se descarta (`envio1 = null;`), ¿qué ocurre en memoria con los objetos `Persona` (remitente/destinatario) y `Paquete` que estaban asociados a ella?
 
